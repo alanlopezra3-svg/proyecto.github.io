@@ -1,0 +1,61 @@
+body{
+    background-color: tan;
+}
+nav{
+    text-align: right;
+    height: 110px; 
+    width: 100%;
+    background-color: rgb(255, 187, 108);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.menu{
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    padding: 5px;
+}
+.Inicio{
+    text-align: center;
+    color: brown;
+    background-color: rgb(230, 190, 138);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin: 10px;
+    padding: 19px;
+}
+.redes{
+    text-align: left;
+    color: rgb(251, 255, 0);
+
+    padding: 5px;
+    margin: 10px;
+    letter-spacing: 2px;
+    font-size: 18px;
+    height: auto;
+
+}
+table{
+    width: 100%;
+}th{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    letter-spacing: 2px;
+    margin: 10px;
+    padding: 5px;
+} h3 { color: rgb(189, 70, 2);}
+
+.imagen{
+    text-align: right;
+
+} footer { width: 100%;
+height: auto; 
+   background-color: rgb(107, 56, 7);
+}
